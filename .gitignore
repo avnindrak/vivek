@@ -41,6 +41,10 @@
 *.su
 *.idb
 *.pdb
+*.lss
+*.srec
+*.eep
+*.mk
 
 # Kernel Module Compile Results
 *.mod*
@@ -50,3 +54,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Simulation Backups
+*.pdsprj.*
