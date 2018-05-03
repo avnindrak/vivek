@@ -36,15 +36,12 @@
 *.x86_64
 *.hex
 
+Debug/
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
-*.lss
-*.srec
-*.eep
-*.mk
 
 # Kernel Module Compile Results
 *.mod*
