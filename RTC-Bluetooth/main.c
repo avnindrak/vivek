@@ -14,7 +14,7 @@
 
 int main(void)
 {
-	char cmd[30];
+	char cmd[15];
 	TIME time;
 	int hour,min,sec;
 
